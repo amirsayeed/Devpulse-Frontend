@@ -2,9 +2,9 @@
 
 > Modern React frontend for DevPulse — an internal tech issue & feature tracker built with Next.js 16, TypeScript, and Tailwind CSS.
 
-<!-- **Live Demo:** [https://devpulse-frontend.vercel.app](https://devpulse-frontend.vercel.app)
+**Live Demo:** [https://devpulse-frontend-two.vercel.app](https://devpulse-frontend-two.vercel.app)
 
-**Backend API:** [https://devpulse-sandy.vercel.app](https://devpulse-sandy.vercel.app) -->
+**Backend API:** [https://devpulse-sandy.vercel.app](https://devpulse-sandy.vercel.app)
 
 ---
 
